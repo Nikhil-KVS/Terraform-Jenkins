@@ -1,4 +1,4 @@
-nodde{
+node {
     stage('tf init') {
         bat 'terraform init'
     }
